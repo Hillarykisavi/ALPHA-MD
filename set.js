@@ -20,14 +20,14 @@ const DATABASE_URL = process.env.DATABASE_URL === undefined
 const config = {
     session: process.env.SESSION_ID || '', //paste your session here 
     PREFIXE: process.env.PREFIX || ".",
-    OWNER_NAME: process.env.OWNER_NAME || "Keith", //replace with your owner name
-    NUMERO_OWNER: process.env.OWNER_NUMBER || "254748387615",   //replace with your owner number  
+    OWNER_NAME: process.env.OWNER_NAME || "Hillary", //replace with your owner name
+    NUMERO_OWNER: process.env.OWNER_NUMBER || "254108093922",   //replace with your owner number  
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'no',    
-    URL: process.env.URL || "https://files.catbox.moe/4h8lfw.jpg",    //replace with your image url                     
+    URL: process.env.URL || "https://telegra.ph/file/f27136b9297d7452f3fbc.jpg",    //replace with your image url                     
     ANTICALL_MSG: process.env.ANTICALL_MSG || 'call declined',             
     GURL: process.env.GURL || "https://github.com/Keithkeizzah", // replace with your url
     EVENTS: process.env.EVENTS || "yes",    
-    BOT: process.env.BOT_NAME || 'ALPHA-MD', //replace with your bot name
+    BOT: process.env.BOT_NAME || 'HILLARY', //replace with your bot name
     MODE: process.env.PUBLIC_MODE || "yes",              
     TIMEZONE: process.env.TIMEZONE || "Africa/Nairobi", //replace with your timezone 
     DP: process.env.STARTING_BOT_MESSAGE || "yes",
