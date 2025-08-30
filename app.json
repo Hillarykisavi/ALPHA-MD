@@ -1,14 +1,14 @@
 {
-  "name": "ALPHA-MD",
-  "description": "Alpha is a multidevice WhatsApp bot built to make your WhatsApp enjoyable.",
+  "name": "HILLARY",
+  "description": "HILLARY is a multidevice WhatsApp bot built to make your WhatsApp enjoyable.",
   "keywords": [
     "bot",
     "node",
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://files.catbox.moe/4h8lfw.jpg",
-  "repository": "https://github.com/Keithkeizzah/ALPHA-MD",
+  "logo": "https://telegra.ph/file/f27136b9297d7452f3fbc.jpg",
+  "repository": "https://github.com/Hillarykisavi/ALPHA-MD",
   "success_url": "/",
   "stack": "container",
   "env": {
@@ -41,7 +41,7 @@
     "PUBLIC_MODE": {
       "description": "Set 'yes' to make your bot public or 'no' to keep it private",
       "value": "yes",
-      "required": false
+      "required": true
     },
     "SESSION_ID": {
       "description": "Enter your session ID, the code you receive after scanning the QR code",
@@ -76,5 +76,6 @@
     }
   ]
 }
+
 
 
