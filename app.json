@@ -1,6 +1,6 @@
 {
-  "name": "HILLARY",
-  "description": "HILLARY is a multidevice WhatsApp bot built to make your WhatsApp enjoyable.",
+  "name": "SILENCER",
+  "description": "SILENCER is a multidevice WhatsApp bot built to make your WhatsApp enjoyable.",
   "keywords": [
     "bot",
     "node",
@@ -76,6 +76,7 @@
     }
   ]
 }
+
 
 
 
