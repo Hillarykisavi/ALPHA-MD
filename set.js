@@ -27,7 +27,7 @@ const config = {
     ANTICALL_MSG: process.env.ANTICALL_MSG || 'call declined',             
     GURL: process.env.GURL || "https://github.com/Hillarykisavi", // replace with your url
     EVENTS: process.env.EVENTS || "yes",    
-    BOT: process.env.BOT_NAME || 'HILLARY', //replace with your bot name
+    BOT: process.env.BOT_NAME || 'Hillary_silencer', //replace with your bot name
     MODE: process.env.PUBLIC_MODE || "yes",              
     TIMEZONE: process.env.TIMEZONE || "Africa/Nairobi", //replace with your timezone 
     DP: process.env.STARTING_BOT_MESSAGE || "yes",
